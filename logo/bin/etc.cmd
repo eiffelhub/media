@@ -1,1 +1,1 @@
-set INKSCAPE_CMD=C:\apps\media\Inkscape\inkscape.exe
+set INKSCAPE_CMD="C:\Program Files\Inkscape\inkscape.exe"

@@ -23,6 +23,7 @@ goto end
 echo PNG Generation
 Call %~dp0bin\generate_for.bat powered_by_eiffel_logo png 200 80
 Call %~dp0bin\generate_for.bat powered_by_eiffel_logo png 100 40
+Call %~dp0bin\generate_for.bat powered_by_eiffel_square_logo png 200 200
 Call %~dp0bin\generate_for.bat inline_powered_by_eiffel_logo png 200 33
 Call %~dp0bin\generate_for.bat inline_powered_by_eiffel_logo png 150 25
 goto %GOTO_NEXT_LABEL%
